@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="action_settings">aboutText</string>
+    <string name="aboutText">aboutText</string>
+    <string name="Buscar">buscaar</string>
+    <string name="searchByName">a</string>
+    <string name="searchByBirthDate">b</string>
+    <string name="searchByLastName">c</string>
+</resources>
